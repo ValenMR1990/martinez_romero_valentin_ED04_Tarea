@@ -13,6 +13,7 @@ public class Main {
         operativa_cuenta(cuenta1, 23000f);
         
         System.out.println("Primer commit realizado con éxito");
+        System.out.println("Segundo commit realizado con éxito");
     }
 
 	public static void operativa_cuenta(CCuenta cuenta1, float cantidad) {
